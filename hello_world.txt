@@ -1,1 +1,2 @@
 I added some text to this for a test
+trying to get a commit message
